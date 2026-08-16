@@ -1,0 +1,36 @@
+# Pastas de build
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+
+# Arquivos de usuário do Visual Studio
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Pasta de configurações do Visual Studio
+.vs/
+
+# Pastas de pacotes NuGet
+packages/
+*.nupkg
+
+# Arquivos de log e temporários
+*.log
+*.tmp
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de build do MSBuild
+*.dll
+*.exe
+*.pdb
+
+# Arquivos de teste
+TestResults/
